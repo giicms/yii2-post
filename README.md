@@ -1,7 +1,7 @@
 yii2-post
 =================
 
-Yii2 Rbac
+Yii2 Post
 
 ## Installation
 
