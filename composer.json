@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/yii2-post",
+    "description": "Yii2 Post",
+    "homepage": "https://github.com/giicms/yii2-post",
+    "keywords": ["yii2","post"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\post\\": ""
+        }
+    }
+}
